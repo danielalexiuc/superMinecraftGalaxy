@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Unnamed">
+    <CLASSES>
+      <root url="file://C:/Program Files (x86)/jmonkeyplatform/jmonkeyplatform/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files (x86)/jmonkeyplatform/jmonkeyplatform/libs/jMonkeyEngine3-sources.zip!/" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files (x86)/jmonkeyplatform/jmonkeyplatform/libs" recursive="false" />
+  </library>
+</component>
